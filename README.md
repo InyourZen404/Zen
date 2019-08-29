@@ -8,7 +8,7 @@ $pkg install python python2 vim figlet curl
 $pkg install php
 $pip2 install lolcat
 $pkg install git
-$git clone https://github.com/D3N1404/Mr.zen
+$git clone https://github.com/InyourZen404/zen
 
 ```MENJALANKANNYA```
 
